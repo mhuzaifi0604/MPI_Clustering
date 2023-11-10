@@ -69,7 +69,7 @@ This is the same as the previous one only diff is that in this function we could
 
 ##### Output screenshot: 
 
-![](Pics/Screenshot_5.png)
+![](Pics/Screenshot_2.png)
 
 As you can see in the screen shot above process1 had 1 element which it sent to process 3 which had 4 elements and process 4 sent 2 elements to process 1 so now both processes have 3 element process 1 à20, 42 & 43 where it received 42 & 43 from process 3 and process 3 has 40, 41 and 20 where it recived 20 from process 01. Similar is the case for the 2 other processes. 
 
